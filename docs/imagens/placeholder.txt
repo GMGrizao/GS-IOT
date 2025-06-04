@@ -1,1 +1,0 @@
-Coloque aqui prints do dashboard, sensores, console, etc.

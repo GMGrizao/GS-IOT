@@ -25,7 +25,6 @@ O **DroneGuard** é um sistema IoT que utiliza drones equipados com sensores e i
 - Broker MQTT
 - Node-RED para visualização dos dados
 - Python para simulação de sensores
-- Banco de dados (opcional)
 - Inteligência Artificial para análise preditiva (futuro)
 
 ## 🎯 Objetivo
@@ -50,10 +49,14 @@ Reduzir perdas humanas e materiais através da prevenção ativa, utilizando tec
 4. Visualize os dados e receba alertas no painel do Node-RED.
 
 ## 🧪 Extras
-- Energia solar (opcional)
 - Funciona em regiões de difícil acesso
 - Aplicativo web ou mobile pode ser integrado para alertas
 
 ---
 
-Desenvolvido para a disciplina **Global Solution - 2025**.
+## 👨‍💻 Time
+- **Caio Cesar Rosa Nyimi** RM556331 - 2TDSPX
+- **Guilherme Menezes Grizão** RM557958 - 2TDSPX
+- **Pietro Saccarrão Cougo** RM555839 - 2TDSPY
+
+Desenvolvido para a disciplina **IOT - Global Solution - 2025**.
