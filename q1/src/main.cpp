@@ -1,23 +1,4 @@
-/********************************************************************
- * Projeto: Envio de Dados MQTT com ESP32 - Global Solution 2025
- * Autor: André Tritiack
- * Placa: DOIT ESP32 DEVKIT V1
- * 
- * Descrição:
- * Este projeto conecta o ESP32 a uma rede Wi-Fi e a um Broker MQTT.
- * A cada 10 segundos, envia uma mensagem JSON contendo:
- * - ID do grupo
- * - ID do módulo
- * - IP local
- * - Dados de temperatura e umidade do sensor DHT22
- * - Valor analógico do potenciômetro (0-4095)
- * 
- * Baseado no repositório original:
- * https://github.com/arnaldojr/iot-esp32-wokwi-vscode
- * Professor Arnaldo Viana - FIAP
- ********************************************************************/
 
-//----------------------------------------------------------
 // Bibliotecas já disponíveis no ambiente ESP32
 
 #include <WiFi.h>
@@ -39,8 +20,8 @@
 #define POTPIN 34       // Pino do potenciômetro (GPIO34/ADC6)
 
 // Identificadores
-const char* ID        = "ID_do_Grupo";
-const char* moduleID  = "Meu_ESP32";
+const char *ID = "345789";
+const char *moduleID = "Smart_Drone";
 
 // Wi-Fi
 const char* SSID      = "Wokwi-GUEST";
