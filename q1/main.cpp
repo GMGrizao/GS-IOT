@@ -16,14 +16,14 @@ const char *password = "riqueguigrizao0";
 
 // Configurações MQTT
 const char *mqtt_server = "172.208.54.189";
-const int mqtt_port = 1883;
+const int mqtt_port = 1880;
 const char *mqtt_user = "gs2025";
 const char *mqtt_password = "q1w2e3r4";
 const char *mqtt_topic = "2TDS/esp32/teste";
 
 // Identificadores
 const char *ID = "345789";
-const char *moduleID = "Drone_Guard";
+const char *moduleID = "Smart_Drone";
 
 // Objetos
 WiFiClient espClient;

@@ -1,8 +1,8 @@
-# DroneGuard – Sistema Inteligente de Prevenção de Desastres Naturais
+# SmartDrone – Sistema Inteligente de Prevenção de Desastres Naturais
 
 ## 🛰️ Descrição da Solução
 
-O **DroneGuard** é um sistema IoT que utiliza drones equipados com sensores e inteligência artificial para monitorar e prever desastres naturais, como enchentes, deslizamentos e outros riscos ambientais. A solução visa fornecer dados em tempo real para auxiliar órgãos de Defesa Civil na tomada de decisões rápidas e eficazes.
+O **SmartDrone** é um sistema IoT que utiliza drones equipados com sensores e inteligência artificial para monitorar e prever desastres naturais, como enchentes, deslizamentos e outros riscos ambientais. A solução visa fornecer dados em tempo real para auxiliar órgãos de Defesa Civil na tomada de decisões rápidas e eficazes.
 
 ## ⚙️ Funcionalidades do Drone
 
